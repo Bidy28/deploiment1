@@ -1,7 +1,7 @@
 package model;
 
 public class Student{
-    public static int myNumber(){
-        return 15;
+    public static String myNumber(){
+        return "Wrong Turn";
     }
 }
